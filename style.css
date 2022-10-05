@@ -1,0 +1,44 @@
+div{
+   text-align: center;
+}
+
+#container{
+   background: grey;
+   margin: 30px auto;
+   width: 600px;
+   height: 600px;
+}
+#image_1{
+   background-color: #9FED9C;
+   height: 75%;
+   width: 30%;
+   float: left;
+}
+
+#text_1{
+   background-color: #81CDE8;
+   height: 25%;
+   width: 70%;
+   float: right;
+}
+
+#text_2{
+   background-color: #FCFF86;
+   height: 50%;
+   width: 70%;
+   float: right;
+}
+
+#text_3{
+   background-color: #F5C883;
+   height: 25%;
+   width: 70%;
+   float: left;
+}
+
+#image_2{
+   background-color: #F583E9;
+   height: 25%;
+   width: 30%;
+   float: right;
+}
